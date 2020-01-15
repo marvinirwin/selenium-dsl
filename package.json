@@ -1,0 +1,11 @@
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "nearley": "^2.19.0",
+    "nearly": "^1.8.1"
+  }
+}
